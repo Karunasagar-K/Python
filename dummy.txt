@@ -1,1 +1,2 @@
-This is dummy file. The purpose of the file is to check to clone in vs code
+This is dummy file. The purpose of the file is to check to clone in vs code.
+The changes i have made.
